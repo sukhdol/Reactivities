@@ -232,3 +232,6 @@ _Pvt_Extensions
 
 # Rider settings
 .idea
+
+# VSCode Settings
+.vscode
