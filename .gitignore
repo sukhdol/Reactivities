@@ -235,3 +235,6 @@ _Pvt_Extensions
 
 # VSCode Settings
 .vscode
+
+#SQLite
+*.db
